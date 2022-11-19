@@ -34,11 +34,11 @@ module.exports = [
     permissions: []
   },
   {
-    name: 'Floatplane',
+    name: 'Disney +',
     hidden: true,
-    logo: 'services/floatplane.svg',
-    url: 'https://floatplane.com/',
-    color: '#00aeef',
+    logo: 'services/Disney+_logo.svg',
+    url: 'https://www.disneyplus.com/',
+    color: '#362ea6',
     style: {},
     permissions: []
   },
